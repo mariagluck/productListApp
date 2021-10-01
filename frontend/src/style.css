@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(142, 220, 223);
+}
+
+.form {
+    margin-left: 40%;
+    margin-top: 5%;
+    font-size: 1.2em;
+}
+
+input, button {
+    font-size: 1em;
+    margin: 8px;
+    padding: 5px;
+    height: auto;
+}
+
+.deleteBtn {
+    border-radius: 12px;
+    background-color: rgb(207, 233, 208);
+    border-color: aquamarine;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
