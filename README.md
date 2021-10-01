@@ -1,9 +1,11 @@
 #Product List App
+
 **Backend- Database Advance example app**
 
-Product list app 
+Product list App 
+----------------
 
-Fall Stack app with frontend with React.js and backend with Mongodb and Mongoose
+Full-Stack app with frontend -React.js and backend -Mongodb and Mongoose
  
 - create backend/frontend folders
 - create .gitignore and README
