@@ -1,5 +1,6 @@
 body {
-    background-color: rgb(142, 220, 223);
+    background-color: rgb(24, 23, 23);
+    color: white;
 }
 
 .form {
@@ -17,12 +18,12 @@ input, button {
 
 .deleteBtn {
     border-radius: 12px;
-    background-color: rgb(207, 233, 208);
-    border-color: aquamarine;
+    background-color: white;
 }
 
 ul {
   list-style-type: none;
   padding-left: 0;
+  color: white;
 }
 
